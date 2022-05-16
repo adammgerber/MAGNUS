@@ -3,4 +3,4 @@ Project in progress:   web application that allows users to upload entire books 
 
 Whenever working with a fullstack application, I always like to break down my thinking process and create diagrams
 
-![Diagram 1](Library.pdf)
+![Diagram 1](library.png)
